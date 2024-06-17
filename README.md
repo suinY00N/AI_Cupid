@@ -34,11 +34,11 @@ AI CUPID 프로젝트는 인공지능 얼굴인식 기술을 활용하여 소개
 - **Colab Demo**:
   [Colab Demo 링크](https://colab.research.google.com/drive/1048h_3ziEUErCaq3Sdn0TzB2OGeo9Xr_?usp=sharing)
 
-# 얼굴 인식을 위한 라이브러리 설치 및 유사도 계산
+# Code
+## 얼굴 인식을 위한 라이브러리 설치 및 유사도 계산
 
-## 라이브러리 설치
+### 라이브러리 설치
 
-다음 명령어를 사용하여 필요한 라이브러리를 설치하세요:
 
 ```python
 !pip install face_recognition
